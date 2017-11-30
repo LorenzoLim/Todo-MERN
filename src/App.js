@@ -11,7 +11,7 @@ const genId = () => currentId++;
 class App extends Component {
   state = {
     tasks: [
-        
+        {}
     ],
     searchPhrase: ''
   }
